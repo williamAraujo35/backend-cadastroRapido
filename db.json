@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "id": "d1f7",
+      "name": "José Pedro Alvarez",
+      "email": "josé.alvarez@gmail.com"
+    },
+    {
+      "id": "507c",
+      "name": "Bianca Moreira Barbosa",
+      "email": "bianca.barbosa@hotmail.com"
+    },
+    {
+      "id": "4e7f",
+      "name": "Felipe Almeida Franco",
+      "email": "felipe.afranco@outlook.com.br"
+    },
+    {
+      "id": "2db3",
+      "name": "João Jorge de Araújo",
+      "email": "j_jorge@gmail.com"
+    },
+    {
+      "id": "4ccc",
+      "name": "Mariana Chaves",
+      "email": "mariana_chaves@hotmail.com"
+    },
+    {
+      "id": "bab0",
+      "name": "Alessandra Beatriz Ferreira",
+      "email": "ale_bia@gmail.com"
+    },
+    {
+      "id": "b178",
+      "name": "Carlos Alberto Silva",
+      "email": "carlinhos.Silva@gmail.com"
+    },
+    {
+      "id": "4a52",
+      "name": "Poliana Barbosa Chaves",
+      "email": "poli_keys@hotmail.com"
+    }
+  ]
+}
